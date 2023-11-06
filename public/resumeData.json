@@ -1,0 +1,181 @@
+{
+    "main" :{
+        "name" :"Pangeran Silaen",
+        "description":"I am a programmer",
+        "image":"profileran.jpg",
+        "github":"https://github.com/pangeranS29",
+        "project":"https://github.com/pangeranS29",
+        "bio": "Ini adalah section biografi aku",
+        "contactmessage":"Hello, here I am",
+        "email": "pangeransilaen1417@gmail.com",
+        "phone": "0852-6536-2246",
+        "address":{
+            "street":"Jln D.I Pandjaitan No 3 Porsea",
+            "city":"Porsea",
+            "state":"Medan,Sumatera Utara",
+            "zip": "22384"
+
+    },
+    "website": "https://github.com/mutiarahmatun",
+    "resumedownload":"https://github.com/pangeranS29",
+
+    "social":[
+      {
+        "name": "facebook",
+        "url": "https://github.com/pangeranS29",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/pangeran-silaen-90560b271/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/pangeransilaenn/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/pangeranS29",
+        "className":"fa fa-github"
+      }
+    ]
+},
+    "resume" : {
+
+        "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+
+        "education": [ 
+            {
+                "school" : "Institut Teknologi Del",
+                "graduated":"Oktober 2026",
+                "description":"I am joining Google Developer Student Club "
+            },
+            {
+                "school":"Institut Teknologi Del",
+                "description":"I am a D4 software engineering technology student del tech institute"
+            }
+         ],
+         "work":[
+            {
+                "company" :" Go-Jek ",
+                "description":"Saya ingin bekerja  dibagian Software Engineer Go-Jek",
+                "years":"November 2026"
+            },
+            {
+                "company":"My Skill Id",
+                "title":"Frontend Engineer",
+                "years":"2-11-November 2023",
+                "description":"Creating a portfolio Using React JS"
+            }
+         ],
+        "skills": [
+            {
+                "name" : "Java",
+                "level": "70%"
+            },
+            {
+                "name": "HTML&CSS",
+                "level": "85%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "65%"
+            },
+            {
+                "name": "Laravel",
+                "level": "60%"
+            },
+            {
+                "name": "PHP",
+                "level": "75%"
+            },
+            {
+                "name": "Algoritma & Struktur Data",
+                "level": "75%"
+            }
+        ]
+    },
+    "portfolio":{
+        "projects": [
+            {
+                "title": "Canadian Wanderlust",
+                "category": "My travel blog for my post-university",
+                "image": "01.jpg",
+                "url": "https://www.canadianwanderlust.com"
+            },
+            {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              },
+              {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"01.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              }
+        ]
+    }
+}
